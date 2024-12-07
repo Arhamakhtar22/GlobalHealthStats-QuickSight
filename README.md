@@ -19,7 +19,9 @@ Link to the dataset:  https://www.kaggle.com/datasets/malaiarasugraj/global-heal
 
 2) Stacked Bar Chart for Age and Gender Analysis
   <img width="707" alt="Screenshot 2024-12-06 at 8 00 21 PM" src="https://github.com/user-attachments/assets/e8a91b1e-263a-44df-a983-e2b056994290">
-  In this chart we can see how do diseases affect different age groups and genders. You can filter by Disease Name or Year
+ 
+ 
+ In this chart we can see how do diseases affect different age groups and genders. You can filter by Disease Name or Year
   This chart can be created by using:
   - "Age Group" to the X-axis
   - "Gender" to the Color field
@@ -35,6 +37,8 @@ This chart can be created by using:
 
 4) Point Map
   <img width="685" alt="Screenshot 2024-12-06 at 8 08 09 PM" src="https://github.com/user-attachments/assets/a5301593-0cc4-4178-999a-d7e85a1fd7f4">
+ 
+  
   This chart can be created by using:
   - "Country" in the Geospatial field
   - "Population Affected" for Size
