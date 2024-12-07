@@ -27,8 +27,9 @@ Link to the dataset:  https://www.kaggle.com/datasets/malaiarasugraj/global-heal
 
 3) Box Plot for Treatment Cost by Disease
    <img width="570" alt="Screenshot 2024-12-06 at 8 04 19 PM" src="https://github.com/user-attachments/assets/d4069f9c-9fb3-4a3a-87d1-e9ff4f864870">
-   In this chart we can find how does the cost of treating different diseases vary across countries. It can identify outliers or countries with exceptionally high treatment costs
-    This chart can be created by using:
+   
+In this chart we can find how does the cost of treating different diseases vary across countries. It can identify outliers or countries with exceptionally high treatment costs
+This chart can be created by using:
      - "Disease Name" to the Category field
      - "Avg Treatment Cost" for the Value field
 
